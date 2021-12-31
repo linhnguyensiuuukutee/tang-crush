@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'gửi chị My đáng juuu của iem',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao chị cứ đi nhầm đường
+    Lạc vào tim em lẻ loi
+    chúc chị một năm 2022 zui zeeeeeeee `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Phải chăng chị đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng chị đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích emmm :)) <33',
+    btnNo: 'ai cho đâu mà không :)) :3',
+    question:'này để tặng chị thoiiiii <3',
+    btnReply: 'sent to Linhh <3',
+    reply: 'em biết em kutee mà',
+    mess: 'chị lúc nào cũng xinhhhhh',
+    messDesc: '1 năm mới không buồn không khóc nhaaaa',
+    btnAccept: 'ko thì em đau lonfggggg đí',
+    messLink: 'https://www.facebook.com/linhxinkdeppppp/',
 }
